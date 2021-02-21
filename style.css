@@ -18,7 +18,7 @@ div {
 }
 
 .blue {
-  background-color: blue;
+  background-color: silver;
 }
 
 .invisible {
@@ -29,15 +29,15 @@ div {
   display: block;
   border: 3px black dashed;
   border-radius: 0;
-  background-color: white;
+  background-color: red
 }
 .green{
-  background-color: green;
+  background-color: aqua;
 }
 .orange {
-  background-color: orange;
+  background-color: purple;
 }
 .visible{
-  background-color: orchid;
+  background-color: yellowgreen;
 }
 }
